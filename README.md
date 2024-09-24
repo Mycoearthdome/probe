@@ -1,5 +1,4 @@
-<--EXAMPLE CODE THAT COULD RUN-->
-
+```c
 #include <linux/module.h>
 #include <linux/kprobes.h>
 #include <linux/kernel.h>
